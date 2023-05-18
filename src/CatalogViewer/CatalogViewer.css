@@ -7,7 +7,7 @@
   }
   
   .catalog-viewer__image {
-    width: 200px; /* Adjust as needed */
+    width: 200px; 
     height:200px;
     margin-bottom: 10px;
   }
@@ -19,8 +19,8 @@
   }
   
   .catalog-viewer__thumbnail {
-    width:100px; /* Adjust as needed */
-    height:100px; /* Adjust as needed */
+    width:100px; 
+    height:100px;
     margin-right: 5px;
     cursor: pointer;
     transition: filter 0.3s ease;
